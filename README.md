@@ -1,11 +1,7 @@
-<p align="center">
-  <h3>Software Developer</h3>
-  <img alt="coding" height="200" width="300" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" style="margin: 0 10px;">
-  <img alt="coding" height="200" width="300" src="https://visualstudio.microsoft.com/wp-content/uploads/2023/03/FinalGIF16_9aspectratiofaster.gif" style="margin: 0 10px;">
-</p>
 
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Explorer;Satellite+Communications+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Face_Recognition<br><br>🌱 I’m currently learning MEAN, Flutter, React Native<br><br>👨‍💻 All of my projects are available at https://anubhavxdev.vercel.app/<br><br>💬 Ask me about React, Node Js, Python,<br><br>📫 How to reach me anubhavjaiswal1803@gmail.com<br><br>⚡ Fun fact I am carless person
 
