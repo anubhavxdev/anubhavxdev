@@ -2,6 +2,19 @@
  🔭 Software Developer<br><br>🌱 I’m currently learning MEAN, Flutter, React Native<br><br>👨‍💻 All of my projects are available at https://anubhavxdev.vercel.app/<br><br>💬 Ask me about React, Node Js, Python,<br><br>📫 How to reach me anubhavjaiswal1803@gmail.com<br><br>⚡ Fun fact I am carless person
 
 
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/1184466463113891894">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1184466463113891894">
+  </a>
+</p>
+
+<p align="center">
+  Let’s chat on Discord!
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anubhavxdev/) 
 
